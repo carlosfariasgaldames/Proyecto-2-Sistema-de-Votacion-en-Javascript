@@ -13,7 +13,7 @@ Git, Git Hub.
 
 Bootcamp Fullstack / COHORT 14, 2024
 
-Tecnologias
+Tecnologias:
 PSint, Visual Studio Code, Git, Git Hub
 
 Authors
